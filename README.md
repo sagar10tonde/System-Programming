@@ -58,7 +58,7 @@
 	     - 'print/b $reg' --display $reg  values in binary
 	     - 'run'          --start the debugging program 
 
-## Main File
+## Main File  ######(Pune Univrsity Assembler)
 
 ##### 1 file name: puasm.py
 
