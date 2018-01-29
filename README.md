@@ -59,7 +59,7 @@
 	     - 'run'          --start the debugging program 
 
 ## Main File 
-###### (Pune Univrsity Assembler)
+###### (Pune University Assembler)
 
 ##### 1 file name: puasm.py
 
