@@ -1,6 +1,7 @@
 # Implemented an Assembler, Simulator and Debugger 
 # for i386 architecture also Implemented Simple Make Tool
 
+
 ## Assembler
 
 ###### One Pass
@@ -136,4 +137,19 @@
 	$ ./puasm.py macro.asm -mlst I anyfile.lst => store lst file in enter anyfile.lst name
 	$ ./puasm.py macro.asm -mo I anyfile.txt   => store obj code in enter anyfile.txt name
 
+# Simple Make Tool
 
+###### How To Write simple make file
+	example:
+		
+	sum :
+		gcc sum.c -o sum
+	sub:
+		gcc sub.c -o sub
+		
+###### How To Run simple make file
+	$ ./mymake
+	
+		or
+		
+	$ ./mymake sum
