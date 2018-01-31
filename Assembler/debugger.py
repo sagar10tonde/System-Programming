@@ -177,7 +177,7 @@ if __name__ == '__main__':
     lit_write()
     
     obj_code(filename)
-    obj_file()
+   
         
 
     print("< pudebugger -v1.0")
